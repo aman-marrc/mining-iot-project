@@ -142,7 +142,7 @@ The system can be extended for large-scale deployment:
 ---
 
 ## 🎥 Demo Video
-(Add your Hindi video link here)
+((https://drive.google.com/file/d/1QJWZxkTxjBQjTAxEw_NgpWoVcwEoKO7K/view))
 
 ---
 
